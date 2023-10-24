@@ -1,0 +1,6 @@
+.Post{
+    margin: 10px;
+    border: 1px solid black;
+    width: calc(20% - 22px);
+    box-shadow: 5px 5px 5px pink;
+}
